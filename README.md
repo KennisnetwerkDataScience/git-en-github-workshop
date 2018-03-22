@@ -1,5 +1,5 @@
 ## Workshop Git en GitHub voor beginners
-Deze repository bevat materiaal voor de [workshop Git en GitHub voor beginners](https://www.meetup.com/Kennisgroep-Data-Science-Samenwerking-Noord-Meetup/events/248367632/) op 22 maart 2018 in Groningen. De workshop is ter voorbereiding op de [image recognition hackathon](https://www.meetup.com/Kennisgroep-Data-Science-Samenwerking-Noord-Meetup/events/248367421/) die georganiseerd wordt door Kennisnetwerk Datascience Noord-Nederland.
+Deze repository bevat materiaal voor de [workshop Git en GitHub voor beginners](https://www.meetup.com/Kennisgroep-Data-Science-Samenwerking-Noord-Meetup/events/248367632/) op 22 maart 2018 in Groningen. De workshop is ter voorbereiding op de [image recognition hackathon](https://www.meetup.com/Kennisgroep-Data-Science-Samenwerking-Noord-Meetup/events/248367421/) die georganiseerd wordt door Kennisnetwerk Data Science Noord-Nederland.
 
 ## Inhoud
 [1. Installeren van Git](1-installeren-van-git.md)  
